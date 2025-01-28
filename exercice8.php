@@ -1,5 +1,8 @@
 <?php
 
+    class Employee extends Person {
+        
+    }
 /**
  * ÉNONCÉ:
  * Créez une classe Student qui étend Person et ayant pour propriétés 
