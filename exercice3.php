@@ -16,9 +16,7 @@ class Person
         return $this->firstName . " " . $this->lastName . " " . $this->age . " ans";
     }
 
-    /**
-     * Getters et setters pour firstName, lastName, et age
-     */
+   
     public function getFirstName(): string
     {
         return $this->firstName;
